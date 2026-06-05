@@ -11,4 +11,3 @@ app_name = "author"
 urlpatterns = [
     path("", include(router.urls)),
 ]
-
